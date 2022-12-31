@@ -7,3 +7,5 @@ corr <- cor(x, y)
 
 paste("covariance = ", cova)
 paste("correlation = ", corr)
+
+plot(x, y, main="Scatter plot", xlab="x", ylab="y")
