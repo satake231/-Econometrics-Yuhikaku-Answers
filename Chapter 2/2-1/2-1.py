@@ -12,5 +12,5 @@ mdn = np.median(a)
 count = stats.mode(a, axis=None)
 mode = count[0][0]
 
-print(" mean={} \n variance={} \n median={} \n mode={}".format(mean, var, mdn, mode))
+print(" mean = {} \n variance = {} \n median = {} \n mode = {}".format(mean, var, mdn, mode))
 #%%
